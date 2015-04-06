@@ -1,0 +1,10 @@
+{
+  "name": "visualdiffing-bootstrap",
+  "version": "0.0.1",
+  "description": "Sample bootstrap project for VisualDiffing",
+  "author": "Eli White",
+  "scripts": {
+    "start": "visualtesting-api",
+    "test": ""
+  }
+}
