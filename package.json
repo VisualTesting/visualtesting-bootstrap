@@ -6,5 +6,8 @@
   "scripts": {
     "start": "visualtesting-api",
     "test": ""
+  },
+  "dependencies": {
+    "visualtesting-api": "^0.1.0"
   }
 }
